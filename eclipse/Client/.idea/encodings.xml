@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1251">
+    <file url="file://$MCP_LOC$/src/minecraft/de/Hero/clickgui/Panel.java" charset="windows-1251" />
+    <file url="file://$MCP_LOC$/src/minecraft/de/Hero/clickgui/elements/ModuleButton.java" charset="windows-1251" />
+    <file url="file://$MCP_LOC$/src/minecraft/neko/itskekoffcode/hclient" charset="windows-1251" />
+    <file url="file://$MCP_LOC$/src/minecraft/neko/itskekoffcode/hclient/commands/Command.java" charset="windows-1251" />
+    <file url="file://$MCP_LOC$/src/minecraft/neko/itskekoffcode/hclient/commands/CommandManager.java" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>

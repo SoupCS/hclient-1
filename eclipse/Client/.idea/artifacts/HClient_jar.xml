@@ -1,0 +1,45 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HClient:jar">
+    <output-path>$PROJECT_DIR$/build/</output-path>
+    <root id="archive" name="HClient.jar">
+      <element id="module-output" name="Client" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/versions/1.12.2/1.12.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/java/org.json.simple-0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/com/mojang/patchy/1.2.3/patchy-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/minecraft/me/amkgre/bettercraft/client/utils/slick.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jsoup-1.14.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/jars/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../mcp950/lib/ViaBackwards-4.1.2-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../mcp950/lib/ViaRewind-2.0.3-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../mcp950/lib/ViaSnakeYaml-1.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../mcp950/lib/ViaVersion-4.1.2-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MCP_LOC$/lib/netty-all-4.1.9.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
